@@ -1,4 +1,4 @@
-# TP1 — De monolito a microservicios (e-commerce)
+# TPs — De monolito a microservicios (e-commerce)
 
 Consigna original: [`monolito`](monolito) es la base de partida (copiada sin
 modificaciones del repo de la materia). El trabajo entregado está en
